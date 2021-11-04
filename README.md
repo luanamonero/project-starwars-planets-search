@@ -26,3 +26,7 @@ Nesse projeto, você será capaz de:
 * Criar _React Hooks_ customizados.
 
 ---
+# Resultado 
+
+
+<img align="center" alt="Luana-Surf" width="100%" src="https://raw.githubusercontent.com/luanamonero/project-starwars-planets-search/main/Captura%20de%20tela%20de%202021-11-04%2014-41-55.png">
